@@ -4,4 +4,4 @@ tersi = liste[::-1]
 for i in tersi:
         a = i[::-1]
         tersinin_tersi.append(a)
-print(tersinin_tersi)
+print(tersinin_tersi)   
